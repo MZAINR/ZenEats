@@ -1,0 +1,74 @@
+.restaurant__image {
+  margin-top: 20px;
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  margin-bottom: 5px;
+}
+.restaurant__info {
+  padding: 15px;
+  margin-bottom: 20px;
+  font-size: 16px;
+  text-align: left;
+}
+.restaurant__info h3 {
+  text-align: center;
+  font-size: 1.3em;
+  margin: 0 auto;
+  margin-bottom: 25px;
+  padding-bottom: 10px;
+  border-bottom: 2px solid rgba(90, 51, 0, 0.377);
+  border-radius: 20px;
+}
+.restaurant__info h4 {
+  font-size: 1.1em;
+  margin: 20px 0 5px 0;
+}
+.restaurant__info p {
+  margin: 0;
+}
+.restaurant__info ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+.restaurant__info li {
+  margin-bottom: 5px;
+}
+.restaurant__menu {
+  margin-bottom: 20px;
+  padding: 10px;
+  border-radius: 20px;
+  border-top: 2px solid rgba(90, 51, 0, 0.377);
+  border-bottom: 2px solid #5a330060;
+}
+.restaurant__menu h3 {
+  font-size: 1.2em;
+  margin-top: 10px;
+}
+.restaurant__menu__container {
+  display: flex;
+}
+.restaurant__menu__section {
+  margin: 20px;
+}
+.restaurant__menu__section h4 {
+  font-size: 1.1em;
+  margin-bottom: 10px;
+  text-align: left;
+}
+.restaurant__menu__section ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+.restaurant__menu__section li {
+  margin-bottom: 5px;
+  text-align: left;
+}
+.details {
+  font-family: 'Roboto', sans-serif;
+}
+/* This commend will  */
+/* This is a comment */
+/* This is a comment */
